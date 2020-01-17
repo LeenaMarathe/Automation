@@ -1,0 +1,16 @@
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Automation.TestPHPTravel.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Automation.TestPHPTravel.pdb
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\WebDriver.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\WebDriver.Support.dll
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\WebDriver.xml
+D:\automation\assgn\Automation.TestPHPTravel\bin\Debug\WebDriver.Support.xml
+D:\automation\assgn\Automation.TestPHPTravel\obj\Debug\Automation.TestPHPTravel.csprojResolveAssemblyReference.cache
+D:\automation\assgn\Automation.TestPHPTravel\obj\Debug\Automation.TestPHPTravel.dll
+D:\automation\assgn\Automation.TestPHPTravel\obj\Debug\Automation.TestPHPTravel.pdb
